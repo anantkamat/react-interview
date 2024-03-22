@@ -3,7 +3,7 @@ import { render } from "@testing-library/react";
 import App from "./App";
 
 test("demo", () => {
-  expect(true).toBe(true);
+  expect(true).toBe(false);
 });
 
 test("Renders the main page", () => {
