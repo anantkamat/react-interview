@@ -8,5 +8,5 @@ test("demo", () => {
 
 test("Renders the main page", () => {
   render(<App />);
-  expect(true).toBeTruthy();
+  expect(false).toBeTruthy();
 });
